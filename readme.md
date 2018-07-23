@@ -199,4 +199,4 @@
 8. 由于使用了百度提供的图片识别功能，所以需要修改com.wsk.movie.tool.AuthService中百度提供的clientId和clientSecret（或者直接注释掉该类）
 8. 将image.rar文件解压到D:/image，这个文件是存放图片和敏感词的重要文件。
 5. 运行com.wsk.movie.MovieApplication的main方法。
-6. 访问localhost
+6. 访问localhost。
