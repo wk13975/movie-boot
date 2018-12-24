@@ -13,4 +13,7 @@ public class MovieApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+	public void test1(){
+   system.out.print("hello");
 }
